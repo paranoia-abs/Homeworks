@@ -21,7 +21,7 @@ public:
     virtual double calculateRange(double fuelAmount) const = 0;
 };
 
-
+//d
 class Car : public Vehicle {
 private:
     int numberOfDoors;
